@@ -1,0 +1,10 @@
+vaersion: 1.0
+
+#管理者として扱いたいメールアドレス. OAuth2でログインするアドレスをしているすることで動作確認が可能
+admin_email: ""
+
+# GCPのクライアントIDを指定
+client_id: ""
+
+# GCPのクライアントシークレットを指定
+client_secret: ""
